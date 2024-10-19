@@ -23,5 +23,5 @@ I pursue research on statistical-based formal validation methods for digital twi
 I earned my Ph.D. degree in Information Technology in 2024, conducting research on statistical approaches for managing resources of cloud, edge, and high-performance computing systems.
 Previously in 2021, I earned my M.Sc. degree in Mathematical Engineering - Applied Statistics.
 
-Feel free to reach out at ![bruno @ (this website)](mail.png).
+Feel free to reach out at ![bruno @ (this website)](/assets/img/mail.png) or my social media accounts.
 Alternatively, you can usually find me in my office.

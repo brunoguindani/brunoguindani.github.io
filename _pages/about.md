@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Building 22, 3rd floor</p>
-    <p>Via Golgi 42, 20133 Milano, Italy</p>
+    <p>Via Golgi 42 </p>
+    <p>20133 Milano, Italy</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,5 +24,5 @@ I pursue research on statistical-based formal validation methods for digital twi
 I earned my Ph.D. degree in Information Technology in 2024, conducting research on statistical approaches for managing resources of cloud, edge, and high-performance computing systems.
 Previously in 2021, I earned my M.Sc. degree in Mathematical Engineering - Applied Statistics.
 
-Feel free to reach out at ![bruno @ (this website)](/assets/img/mail.png) or my social media accounts.
+Feel free to reach out at <img src="/assets/img/mail.png" alt="address" height="13" width="auto"/> or my social media accounts.
 Alternatively, you can usually find me in my office.

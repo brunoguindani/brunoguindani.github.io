@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a post-doc researcher at Politecnico di Milano, in the Software Engineering Group ([DeepSE](https://www.deepse.deib.polimi.it)).
-I pursue research on statistical-based formal validation methods for digital twin software architectures.
+I pursue research on Bayesian statistical methods applied to computer science, focusing on areas such as Bayesian Optimization and formal methods for digital twin architectures.
 
 I earned my Ph.D. degree in Information Technology in 2024, conducting research on statistical approaches for managing resources of cloud, edge, and high-performance computing systems.
 In 2021, I earned my M.Sc. degree in Mathematical Engineering - Applied Statistics.

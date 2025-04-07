@@ -28,6 +28,7 @@ Feel free to reach out at <img src="/assets/img/mail.png" alt="address" height="
 Alternatively, you can usually find me in my office.
 
 ## Selected publications
-* R. Sala, B. Guindani, D. Ardagna, A. Guglielmi. *d-MALIBOO: a Bayesian Optimization framework for dealing with Discrete Variables*. IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2024. Best Paper Award. [Link](https://doi.org/10.1109/MASCOTS64422.2024.10786339)
-* B. Guindani, D. Ardagna, A. Guglielmi, R. Rocco, G. Palermo. *Integrating Bayesian Optimization and Machine Learning for the Optimal Configuration of Cloud Systems*. IEEE Transactions on Cloud Computing, 2024. [Link](https://doi.org/10.1109/TCC.2024.3361070)
-* M. Beraha, B. Guindani, M. Gianella, A. Guglielmi. *BayesMix: Bayesian Mixture Models in C++*. Journal of Statistical Software, 2025. [Link](https://doi.org/10.18637/jss.v112.i09)
+
+- R. Sala, B. Guindani, D. Ardagna, A. Guglielmi. _d-MALIBOO: a Bayesian Optimization framework for dealing with Discrete Variables_. IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2024. Best Paper Award. [Link](https://doi.org/10.1109/MASCOTS64422.2024.10786339)
+- B. Guindani, D. Ardagna, A. Guglielmi, R. Rocco, G. Palermo. _Integrating Bayesian Optimization and Machine Learning for the Optimal Configuration of Cloud Systems_. IEEE Transactions on Cloud Computing, 2024. [Link](https://doi.org/10.1109/TCC.2024.3361070)
+- M. Beraha, B. Guindani, M. Gianella, A. Guglielmi. _BayesMix: Bayesian Mixture Models in C++_. Journal of Statistical Software, 2025. [Link](https://doi.org/10.18637/jss.v112.i09)

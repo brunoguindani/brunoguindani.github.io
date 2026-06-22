@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://guindani.org/sitemap.xml
